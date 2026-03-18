@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**rouba26/rouba26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Rouba 👋
 
-Here are some ideas to get you started:
+🎓 IT Engineering Student at ESPRIT  
+💻 Interested in Web Development / AI..
+🚀 Currently learning: C, Python, Algorithms  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Goals:
+- Build strong projects
+- Start freelancing
+- Contribute to open source  
+
+📫 Contact:
+- LinkedIn: www.linkedin.com/in/
+rouba-ghanmi-b12b2b3b7
